@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "172244239913",
+    "project_id": "vadasada-51488",
+    "storage_bucket": "vadasada-51488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172244239913:android:8c366cbdae0588016c3e38",
+        "android_client_info": {
+          "package_name": "pk.com.vadasada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172244239913-m3a8l47ara6u9rng2lkgf3s6gvb4ldop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pk.com.vadasada",
+            "certificate_hash": "d6a1a134748202c6e4eb9a2c2a6fe85611e7a0d0"
+          }
+        },
+        {
+          "client_id": "172244239913-0rojsht4rm410s2ciuugr339al6f4rgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCidtI5SJnzNegj5xrHXoi2qT45WLwZIVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172244239913-0rojsht4rm410s2ciuugr339al6f4rgl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172244239913-7dek4pkfn0dfifksr5bq72uggh7svb12.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pk.com.vadasada"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
